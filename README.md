@@ -21,7 +21,7 @@ And yeah, it is a opensource project, but the license was not defined yet. It pr
 <h2 align="justify" style="color: #5BBDEB; font-weight: bold; margin: 0;">
 # Preview
 </h2>
-
+<img width="200px" src="https://raw.githubusercontent.com/olivermaths/blue-wallet/develop/doc/homeview.png"/>
 
 
 
